@@ -6,5 +6,14 @@
 - [X] Configurando temas 
 - [X] Estilos globais
 - [X] Cores e fontes
-- [ ] Configurando ESlint 
+- [X] Configurando ESlint 
+## Páginas e Rotas
+- [X] ReactRouterDom 
+- [X] Layout das rotas
+- [X] Header e Layout
+- [ ] Página: Home 
+- [ ] Finalização da Home
+- [ ] Aprimoração dos inputs
+- [ ] Página: History
+- [ ] Componente Status
   
