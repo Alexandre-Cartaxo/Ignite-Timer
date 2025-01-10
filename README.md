@@ -11,9 +11,9 @@
 - [X] ReactRouterDom 
 - [X] Layout das rotas
 - [X] Header e Layout
-- [ ] Página: Home 
-- [ ] Finalização da Home
-- [ ] Aprimoração dos inputs
-- [ ] Página: History
+- [X] Página: Home 
+- [X] Finalização da Home
+- [X] Aprimoração dos inputs
+- [X] Página: History
 - [ ] Componente Status
   
