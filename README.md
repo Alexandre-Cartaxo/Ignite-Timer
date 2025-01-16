@@ -15,5 +15,10 @@
 - [X] Finalização da Home
 - [X] Aprimoração dos inputs
 - [X] Página: History
-- [ ] Componente Status
-  
+- [X] Componente Status
+## Formulários 
+- [X] Controlled / Uncontrolled
+- [X] ReactHookForm
+- [X] Validando formulários 
+- [ ] TypeScript no formulário 
+- [ ] Resetando Formulários  
