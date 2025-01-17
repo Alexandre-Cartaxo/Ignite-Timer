@@ -20,5 +20,15 @@
 - [X] Controlled / Uncontrolled
 - [X] ReactHookForm
 - [X] Validando formulários 
-- [ ] TypeScript no formulário 
-- [ ] Resetando Formulários  
+- [X] TypeScript no formulário 
+- [X] Resetando Formulários  
+## Funcionalidades da aplicação
+- [X] Iniciando novo ciclo 
+- [X] Criando cronometro 
+- [X] Hook UseEffect 
+- [X] Reduzindo o cronometro 
+- [ ] Mudando título da página 
+- [ ] Interromper o ciclo 
+- [ ] Ciclo completo
+- [ ] Separando componentes 
+- [ ] Prop drilling no react 
