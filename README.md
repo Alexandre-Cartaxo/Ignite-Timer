@@ -27,8 +27,21 @@
 - [X] Criando cronometro 
 - [X] Hook UseEffect 
 - [X] Reduzindo o cronometro 
-- [ ] Mudando título da página 
-- [ ] Interromper o ciclo 
-- [ ] Ciclo completo
-- [ ] Separando componentes 
-- [ ] Prop drilling no react 
+- [X] Mudando título da página 
+- [X] Interromper o ciclo 
+- [X] Ciclo completo
+- [X] Separando componentes 
+- [X] Prop drilling no react 
+## Contexto no React 
+- [X] Entendendo contextos
+- [X] Convertendo para contextos 
+- [X] Contexto no formulário
+- [ ] Contexto entre rotas
+- [ ] Listagem do histórico
+- [ ] Formatação de data 
+
+## Instruções de instalação
+``` 
+npm i 
+npm run dev
+```
