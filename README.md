@@ -36,9 +36,18 @@
 - [X] Entendendo contextos
 - [X] Convertendo para contextos 
 - [X] Contexto no formulário
-- [ ] Contexto entre rotas
-- [ ] Listagem do histórico
-- [ ] Formatação de data 
+- [X] Contexto entre rotas
+- [X] Listagem do histórico
+- [X] Formatação de data 
+## Reducers 
+- [ ] Criando reducers de ciclo 
+- [ ] Salvando um objeto no Reducer
+- [ ] Marcando ciclo como finalizado 
+- [ ] Separando Actions 
+- [ ] Utilizando immer 
+- [ ] Salvando estado no storage 
+- [ ] Corrigindo listagem do histórico 
+   
 
 ## Instruções de instalação
 ``` 
