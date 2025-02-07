@@ -40,9 +40,9 @@
 - [X] Listagem do histórico
 - [X] Formatação de data 
 ## Reducers 
-- [ ] Criando reducers de ciclo 
-- [ ] Salvando um objeto no Reducer
-- [ ] Marcando ciclo como finalizado 
+- [X] Criando reducers de ciclo 
+- [X] Salvando um objeto no Reducer
+- [X] Marcando ciclo como finalizado 
 - [ ] Separando Actions 
 - [ ] Utilizando immer 
 - [ ] Salvando estado no storage 
