@@ -43,10 +43,9 @@
 - [X] Criando reducers de ciclo 
 - [X] Salvando um objeto no Reducer
 - [X] Marcando ciclo como finalizado 
-- [ ] Separando Actions 
-- [ ] Utilizando immer 
-- [ ] Salvando estado no storage 
-- [ ] Corrigindo listagem do histórico 
+- [X] Separando Actions 
+- [X] Utilizando immer 
+- [X] Salvando estado no storage 
    
 
 ## Instruções de instalação
